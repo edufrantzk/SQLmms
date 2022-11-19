@@ -88,10 +88,6 @@ FROM
 WHERE Age < 10;
 
 
-# Média de sobreviventes por Quantidade de Parentes no Navio (SibSp + Parch)
-----------
-
-
 # Calculating a new variable that will represent the family size on the ship
 
 CREATE TABLE results.abt_01
